@@ -1,4 +1,4 @@
-# test_task2
+# Catalog synchronization
 Аргументы CMD:
 
 -s/--source " *path to source catalog* "   -- Путь до исходного каталога
